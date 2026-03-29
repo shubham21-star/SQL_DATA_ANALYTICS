@@ -1,4 +1,5 @@
 create database join_1;
+
 use join_1;
 create table employees (
     emp_id int,
