@@ -1,6 +1,7 @@
 # Project: SmartMart Retail Sales Analysis
 # Name: Shubham Kumar
 # Course: B.tech CSE (D.A)
+# Department : SAGE UNIVERSITY, BHOPAL
 # Description: Practice assignment covering select, where, group by, 
 #joins and business queries
 
